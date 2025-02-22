@@ -21,12 +21,9 @@
 			},
 			{
 				"index": "images",
-				"file1": "sandstone/images/logo.png",
+				"file1": "sandstone/images/sandstone_logo.png",
 				"file2": "sandstone/images/sandstone.jpg",
-				"file3": "sandstone/images/login_bg.jpg",
-				"file4": "sandstone/images/eye.svg",
-				"file5": "sandstone/images/logo-signup.png",
-				"file6": "sandstone/images/no_background.png"
+				"file3": "sandstone/images/sandstone_login_bg.jpg"
 			},
 			{
 				"index": "js"

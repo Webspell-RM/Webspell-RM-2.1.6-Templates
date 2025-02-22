@@ -21,12 +21,9 @@
 			},
 			{
 				"index": "images",
-				"file1": "green/images/logo.png",
+				"file1": "green/images/green_logo.png",
 				"file2": "green/images/green.jpg",
-				"file3": "green/images/login_bg.jpg",
-				"file4": "green/images/eye.svg",
-				"file5": "green/images/logo-signup.png",
-				"file6": "green/images/no_background.png"
+				"file3": "green/images/green_login_bg.jpg"
 			},
 			{
 				"index": "js"
