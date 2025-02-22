@@ -1,0 +1,29 @@
+{
+"items": [
+			{
+				"index": "php",
+				"file1": "spacelab/install.php",				
+				"file2": "spacelab/uninstall.php",
+				"file3": "spacelab/index.php",
+				"file4": "spacelab/update.php"
+			},
+			{
+				"index": "admin"
+			},
+			{
+				"index": "languages"
+			},
+			{
+				"index": "templates"
+			},
+			{
+				"index": "css"		
+			},
+			{
+				"index": "images"
+			},
+			{				
+				"index": "js"
+			}
+		]
+}

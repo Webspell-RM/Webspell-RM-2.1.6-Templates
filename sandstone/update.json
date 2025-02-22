@@ -1,0 +1,35 @@
+{
+"items": [
+			{
+				"index": "php",
+				"file1": "sandstone/install.php",				
+				"file2": "sandstone/uninstall.php",
+				"file3": "sandstone/update.php"
+			},
+			{
+				"index": "admin"
+			},
+			{
+				"index": "languages"
+			},
+			{
+				"index": "templates"
+			},
+			{
+				"index": "css",
+				"file1": "sandstone/css/stylesheet.css"
+			},
+			{
+				"index": "images",
+				"file1": "sandstone/images/logo.png",
+				"file2": "sandstone/images/sandstone.jpg",
+				"file3": "sandstone/images/login_bg.jpg",
+				"file4": "sandstone/images/eye.svg",
+				"file5": "sandstone/images/logo-signup.png",
+				"file6": "sandstone/images/no_background.png"
+			},
+			{
+				"index": "js"
+			}
+		]
+}

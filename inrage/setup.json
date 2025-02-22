@@ -1,0 +1,31 @@
+{
+"items": [
+			{
+				"index": "php",
+				"file1": "inrage/install.php",				
+				"file2": "inrage/uninstall.php"
+			},
+			{
+				"index": "admin"
+			},
+			{
+				"index": "languages"
+			},
+			{
+				"index": "templates"
+			},
+			{
+				"index": "css",
+				"file1": "inrage/css/stylesheet.css"
+			},
+			{
+				"index": "images",
+				"file1": "inrage/images/inrage.jpg",
+				"file2": "inrage/images/inrage_login_bg.jpg",
+				"file3": "inrage/images/inrage_logo.png"
+			},
+			{
+				"index": "js"
+			}
+		]
+}

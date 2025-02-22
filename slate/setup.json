@@ -1,0 +1,34 @@
+{
+"items": [
+			{
+				"index": "php",
+				"file1": "slate/install.php",				
+				"file2": "slate/uninstall.php"
+			},
+			{
+				"index": "admin"
+			},
+			{
+				"index": "languages"
+			},
+			{
+				"index": "templates"
+			},
+			{
+				"index": "css",
+				"file1": "slate/css/stylesheet.css"			
+			},
+			{
+				"index": "images",
+				"file1": "slate/images/logo.png",
+				"file2": "slate/images/slate.jpg",
+				"file3": "slate/images/login_bg.jpg",
+				"file4": "slate/images/eye.svg",
+				"file5": "slate/images/logo-signup.png",
+				"file6": "slate/images/no_background.png"
+			},
+			{				
+				"index": "js"
+			}
+		]
+}

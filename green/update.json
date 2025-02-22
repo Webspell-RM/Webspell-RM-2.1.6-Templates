@@ -1,0 +1,35 @@
+{
+"items": [
+			{
+				"index": "php",
+				"file1": "green/install.php",				
+				"file2": "green/uninstall.php",
+				"file3": "green/update.php"
+			},
+			{
+				"index": "admin"
+			},
+			{
+				"index": "languages"
+			},
+			{
+				"index": "templates"
+			},
+			{
+				"index": "css",
+				"file1": "green/css/stylesheet.css"
+			},
+			{
+				"index": "images",
+				"file1": "green/images/logo.png",
+				"file2": "green/images/green.jpg",
+				"file3": "green/images/login_bg.jpg",
+				"file4": "green/images/eye.svg",
+				"file5": "green/images/logo-signup.png",
+				"file6": "green/images/no_background.png"
+			},
+			{
+				"index": "js"
+			}
+		]
+}
