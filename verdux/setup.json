@@ -1,0 +1,33 @@
+{
+"items": [
+			{
+				"index": "php",
+				"file1": "verdux/install.php",
+				"file2": "verdux/uninstall.php",
+				"file3": "verdux/index.php"
+			},
+			{
+				"index": "admin"
+			},
+			{
+				"index": "languages"
+			},
+			{
+				"index": "templates"
+			},
+			{
+				"index": "css",
+				"file1": "verdux/css/page.css",
+				"file2": "verdux/css/stylesheet.css"
+			},
+			{
+				"index": "images",
+				"file1": "verdux/images/verdux_logo.png",
+				"file2": "verdux/images/verdux.jpg",
+				"file3": "verdux/images/verdux_login_bg.jpg"
+			},
+			{
+				"index": "js"
+			}
+		]
+}
