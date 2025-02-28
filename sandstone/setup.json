@@ -22,7 +22,9 @@
 				"index": "images",
 				"file1": "sandstone/images/sandstone_logo.png",
 				"file2": "sandstone/images/sandstone.jpg",
-				"file3": "sandstone/images/sandstone_login_bg.jpg"
+				"file3": "sandstone/images/sandstone_login_bg.jpg",
+				"file4": "sandstone/images/favicon.ico",
+				"file5": "sandstone/images/no_background.png"
 			},
 			{
 				"index": "js"

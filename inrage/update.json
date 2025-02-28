@@ -24,7 +24,8 @@
 				"file1": "inrage/images/inrage.jpg",
 				"file2": "inrage/images/inrage_login_bg.jpg",
 				"file3": "inrage/images/inrage_logo.png",
-				"file4": "inrage/images/favicon.ico"
+				"file4": "inrage/images/favicon.ico",
+				"file5": "inrage/images/no_background.png"
 			},
 			{
 				"index": "js"

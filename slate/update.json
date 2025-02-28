@@ -23,7 +23,9 @@
 				"index": "images",
 				"file1": "slate/images/slate_logo.png",
 				"file2": "slate/images/slate.jpg",
-				"file3": "slate/images/slate_login_bg.jpg"
+				"file3": "slate/images/slate_login_bg.jpg",
+				"file4": "slate/images/favicon.ico",
+				"file5": "slate/images/no_background.png"
 			},
 			{				
 				"index": "js"

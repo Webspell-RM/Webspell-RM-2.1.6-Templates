@@ -17,14 +17,15 @@
 			},
 			{
 				"index": "css",
-				"file1": "verdux/css/page.css",
-				"file2": "verdux/css/stylesheet.css"
+				"file1": "verdux/css/stylesheet.css"
 			},
 			{
 				"index": "images",
 				"file1": "verdux/images/verdux_logo.png",
 				"file2": "verdux/images/verdux.jpg",
-				"file3": "verdux/images/verdux_login_bg.jpg"
+				"file3": "verdux/images/verdux_login_bg.jpg",
+				"file4": "verdux/images/favicon.ico",
+				"file5": "verdux/images/no_background.png"
 			},
 			{
 				"index": "js"

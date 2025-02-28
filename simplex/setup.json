@@ -23,7 +23,8 @@
 				"file1": "simplex/images/simplex_logo.png",
 				"file2": "simplex/images/simplex.jpg",
 				"file3": "simplex/images/simplex_login_bg.jpg",
-				"file4": "simplex/images/favicon.ico"
+				"file4": "simplex/images/favicon.ico",
+				"file5": "simplex/images/no_background.png"
 			},
 			{
 				"index": "js"

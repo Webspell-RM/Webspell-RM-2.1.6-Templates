@@ -24,7 +24,8 @@
 				"file1": "default/images/default.jpg",
 				"file2": "default/images/default_login_bg.jpg",
 				"file3": "default/images/default_logo.png",
-				"file4": "default/images/favicon.ico"
+				"file4": "default/images/favicon.ico",
+				"file5": "default/images/no_background.png"
 			},
 			{
 				"index": "js"

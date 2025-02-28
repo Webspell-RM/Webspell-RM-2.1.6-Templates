@@ -23,7 +23,8 @@
 				"file1": "cyborg/images/cyborg.jpg",
 				"file2": "cyborg/images/cyborg_login_bg.jpg",
 				"file3": "cyborg/images/cyborg_logo.png",
-				"file4": "cyborg/images/favicon.ico"
+				"file4": "cyborg/images/favicon.ico",
+				"file5": "cyborg/images/no_background.png"
 			},
 			{
 				"index": "js"
