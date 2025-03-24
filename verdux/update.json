@@ -18,7 +18,8 @@
 			},
 			{
 				"index": "css",
-				"file1": "verdux/css/stylesheet.css"
+				"file1": "verdux/css/stylesheet.css",
+				"file2": "verdux/css/page.css"
 			},
 			{
 				"index": "images",
